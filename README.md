@@ -1,0 +1,2 @@
+# React-Based-NBA-Player-Stats-Visualization-Web-App
+A React JS based web application that supports NBA players' shot data visualization and player dynamic search using React, D3, Ant Design, etc.  It includes a shotchart as the main data visualization format and user can apply different filters as well as select different themes such as hexbin and scatter. It also has a user profile view on the left side and a search bar on the top to dynamically show selected player's information.
