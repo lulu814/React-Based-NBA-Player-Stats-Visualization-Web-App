@@ -1,0 +1,19 @@
+.App-header {
+    background-color: #1d428a;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    /*float效果*/
+    justify-content: left;
+    /*边界阴影效果*/
+    box-shadow: -1px 0 5px 0 #1D428A;
+    /*向下加边距*/
+    margin-bottom: 70px;
+    color: white;
+}
+
+.App-logo {
+    height: 35px;
+    float: left;
+    padding-left: 40px;
+}
